@@ -13,7 +13,7 @@ Now, that I am starting from the basics, I thought of documenting my journey so 
 ## Books : 
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) by Michael Neilson. It's available for free online and covers all the core concepts with codes as well. 
 ## Web Links / Youtube :
-1. [3blue1brown](https://www.youtube.com/@3blue1brown) : Basics and the maths behind the network learning
+1. [3blue1brown](https://www.youtube.com/@3blue1brown): Basics and the maths behind the network learning. (Grant is the absolute best and his videos are just exceptional)
    - https://www.3blue1brown.com/topics/neural-networks
 2. Insightful articles on Deep Learning by [Chris Olah](https://colah.github.io/)
   
