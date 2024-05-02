@@ -11,10 +11,13 @@ Now, that I am starting from the basics, I thought of documenting my journey so 
 - ###   You'll find code implementations in the repository, organized into respective folders.
 
 ## Books : 
-1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) by Michael Neilson. It's available for free online and covers all the core concepts with codes as well. 
+1. [Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow](https://powerunit-ju.com/wp-content/uploads/2021/04/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf) by Aurelien Geron. Perfect for beginners, the 2nd part is about Deep Learning.
+2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) by Michael Neilson. It's available for free online and covers all the core concepts with codes as well.
+
 ## Web Links / Youtube :
 1. [3blue1brown](https://www.youtube.com/@3blue1brown): Basics and the maths behind the network learning. (Grant is the absolute best and his videos are just exceptional)
    - https://www.3blue1brown.com/topics/neural-networks
-2. Insightful articles on Deep Learning by [Chris Olah](https://colah.github.io/)
+2. [NeuralNeywork Playlist](https://www.youtube.com/@statquest) by Josh Starmer. His videos and visualizations are very easy to understand.
+3. Insightful articles on Deep Learning by [Chris Olah](https://colah.github.io/)
   
 
