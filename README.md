@@ -17,7 +17,7 @@ Now, that I am starting from the basics, I thought of documenting my journey so 
 ## Web Links / Youtube :
 1. [3blue1brown](https://www.youtube.com/@3blue1brown): Basics and the maths behind the network learning. (Grant is the absolute best and his videos are just exceptional)
    - https://www.3blue1brown.com/topics/neural-networks
-2. [StatQuest NeuralNetwork Playlist](https://www.youtube.com/@statquest) by Josh Starmer (Mr BAM). His videos and visualizations are very easy to understand.
+2. [StatQuest NeuralNetwork Playlist](https://www.youtube.com/@statquest) by Josh Starmer aka Mr BAM. His videos and visualizations are so easy to understand. He has covered all the core topics.
 3. Insightful articles on Deep Learning by [Chris Olah](https://colah.github.io/)
   
 
